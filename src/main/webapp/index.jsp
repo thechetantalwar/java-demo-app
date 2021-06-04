@@ -34,7 +34,7 @@ src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></scrip
 
       <main role="main" class="inner cover">
         <h1 class="cover-heading">Thanks a lot for attending the workshop.</h1>
-        <p class="lead">In case of any issues or queries, you can reach out to me at <a href="https://www.linkedin.com/in/thechetantalwar/">Linkedin</a> or you can email your queries at <a href="mailto:chetan.talwar@thinknyx.com">chetan.talwar@thinknyx.com</a>/<a href="mailto:chetan.talwar@gmail.com">chetan.talwar@gmail.com</a></p>
+        <p class="lead">In case of any issues or queries, you can reach out to me at <a href="https://www.linkedin.com/in/thechetantalwar/">Linkedin</a><br> or you can email your queries at <a href="mailto:chetan.talwar@thinknyx.com">chetan.talwar@thinknyx.com</a>/<a href="mailto:chetan.talwar@gmail.com">chetan.talwar@gmail.com</a></p>
         <p class="lead">
           <a href="https://thinknyx.com" class="btn btn-lg btn-secondary">Thinknxy Technologies</a>
         </p>
