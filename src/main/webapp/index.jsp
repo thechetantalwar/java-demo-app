@@ -25,7 +25,7 @@ src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></scrip
       <header class="masthead mb-auto">
         <div class="inner">
           <h3 class="masthead-brand">Chetan Talwar</h3>
-<!--          <nav class="nav nav-masthead justify-content-center">
+
             <a class="nav-link active" href="#">Home</a>
             <a class="nav-link" href="https://www.linkedin.com/in/thechetantalwar/">Contact</a>
           </nav> -->
