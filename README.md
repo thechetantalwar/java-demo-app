@@ -12,6 +12,5 @@
     ```docker build -t demoapp -f Dockerfile .```
 - Create Container
     
-    ```docker run -d -p 8091:8080 demoapp```
-    
+    ```docker run -d -p 8091:8080 demoapp``` 
 ---
